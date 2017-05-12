@@ -24,4 +24,20 @@ cd course-pathway-project
 npm install
 ```
 
-* Should be viewable here[](http://localhost:4000/index.html)
+* Start node server
+
+```
+npm start
+```
+
+* Should now be viewable [here](http://localhost:4000/index.html)
+
+* To build production for faster performance
+
+```
+npm run build
+```
+
+```
+npm run serve
+```
