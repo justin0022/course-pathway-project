@@ -1,5 +1,3 @@
-import data from '../data/data.json'
-
 var width = 960,
     height = 500;
 
